@@ -1,17 +1,8 @@
 {
 	{
-	"Name": "Serg",
-	"Age": "30 years",
-	"Child":{
-		"Maria": "5 years",
-		"Max": "2 years"
-		}
-	},
-	{
-	"Name": "Julia",
-	"Age": "28 years",
-	"Child":{
-		"Anna": "3 years"
-		}
+	"Name": "Brusov Anatolii",
+	"Age": "36 years",
+	"Pets": 1
+	"Disired Salary": "2500 usd"
 	}
 }
